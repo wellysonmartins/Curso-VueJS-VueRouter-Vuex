@@ -2,7 +2,7 @@
 Arquivos do curso de VueJS 2, Vue Router e Vuex
 
 ## Conteúdo:
-- [ ] 1. Introdução
+- [x] 1. Introdução
 - [ ] 2. Usando VueJS para interagir com a DOM
 - [ ] 3. Usando Condicionais & Renderização de Listas
 - [ ] 4. Projeto #01 - O Matador de Monstros
